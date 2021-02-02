@@ -1,27 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<school_admission>
+<admissions>
+<admission SL.NO.='23'
+<NAME>John Carter</NAME>
+<ADDMISSION_DATE>
+<date='25'
+<month='12'
+<year='2015'
+</year>
+</month>
+</date>
+</ADDMISSION_DATE>
+</admission>
 
-  <schoolreg category="JohnCarter">
-    <SLNO>23</SLNO>
-    <Name>John Carter</Name>
-    <AdmissionDate>25/12/2015</AdmissionDate>
-    
-  </schoolreg>
+<admission SL.NO.='29'
+<NAME>Bob Marshal</NAME>
+<ADDMISSION_DATE>
+<date='13'
+<month='01'
+<year='1999'
+</year>
+</month>
+</date>
+</ADDMISSION_DATE>
+</admission>
 
- <schoolreg category="BobMarshal">
-    <SLNO>29</SLNO>
-    <Name>Bob Marshal</Name>
-    <AdmissionDate>13/01/1999</AdmissionDate>
-    
-  </schoolreg>
-
- <schoolreg category="ClarkKent">
-    <SLNO>35</SLNO>
-    <Name>Clark Kent</Name>
-    <AdmissionDate>17/06/2005</AdmissionDate>
-    
-  </schoolreg>
-
-  
-
-</school_admission>
+<admission SL.NO.='35'
+<NAME>Clark Kent</NAME>
+<ADDMISSION_DATE>
+<date='17'
+<month='06'
+<year='2005'
+</year>
+</month>
+</date>
+</ADDMISSION_DATE>
+</admission>
+</admissions>

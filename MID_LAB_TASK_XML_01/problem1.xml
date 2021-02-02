@@ -1,31 +1,23 @@
- <?xml version="1.0" encoding="UTF-8"?>
-<mobile_shop>
+<mobilebrands>
+<mobilebrand id='11' 
+<name>Samsung</name>
+<unit_price>3500</unit_price>
+<stock>50</stock>
+<status>1</status>
+</mobilebrand>
 
-  <mobile category="nokia">
-    <id>11</id>
-    <name>nokia</name>
-    <unitPrice>35000</unitPrice>
-    <stock>50</stock>
-    <status>1</status>
-  </mobile>
+<mobilebrand id='20' 
+<name>HTC</name>
+<unit_price>65300</unit_price>
+<stock>35</stock>
+<status>0</status>
+</mobilebrand>
 
- <mobile category="HTC">
-    <id>12</id>
-    <name>htc</name>
-    <unitPrice>45000</unitPrice>
-    <stock>30</stock>
-    <status>0</status>
-  </mobile>
+<mobilebrand id='23' 
+<name>Nokia</name>
+<unit_price>25100</unit_price>
+<stock>100</stock>
+<status>1</status>
+</mobilebrand>
 
- <mobile category="samsung">
-    <id>13</id>
-    <name>samsung</name>
-    <unitPrice>25000</unitPrice>
-    <stock>20</stock>
-    <status>1</status>
-  </mobile>
-
-  
-
-</mobile_shop>
-
+</mobilebrands>

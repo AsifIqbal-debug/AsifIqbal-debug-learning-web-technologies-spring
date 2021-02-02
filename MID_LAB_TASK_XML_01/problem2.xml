@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school_admission>
+
+  <schoolreg category="JohnCarter">
+    <SLNO>23</SLNO>
+    <Name>John Carter</Name>
+    <AdmissionDate>25/12/2015</AdmissionDate>
+    
+  </schoolreg>
+
+ <schoolreg category="BobMarshal">
+    <SLNO>29</SLNO>
+    <Name>Bob Marshal</Name>
+    <AdmissionDate>13/01/1999</AdmissionDate>
+    
+  </schoolreg>
+
+ <schoolreg category="ClarkKent">
+    <SLNO>35</SLNO>
+    <Name>Clark Kent</Name>
+    <AdmissionDate>17/06/2005</AdmissionDate>
+    
+  </schoolreg>
+
+  
+
+</school_admission>

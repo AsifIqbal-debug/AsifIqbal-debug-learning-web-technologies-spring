@@ -1,0 +1,31 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<mobile_shop>
+
+  <mobile category="nokia">
+    <id>11</id>
+    <name>nokia</name>
+    <unitPrice>35000</unitPrice>
+    <stock>50</stock>
+    <status>1</status>
+  </mobile>
+
+ <mobile category="HTC">
+    <id>12</id>
+    <name>htc</name>
+    <unitPrice>45000</unitPrice>
+    <stock>30</stock>
+    <status>0</status>
+  </mobile>
+
+ <mobile category="samsung">
+    <id>13</id>
+    <name>samsung</name>
+    <unitPrice>25000</unitPrice>
+    <stock>20</stock>
+    <status>1</status>
+  </mobile>
+
+  
+
+</mobile_shop>
+
